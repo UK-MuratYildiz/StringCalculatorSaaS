@@ -62,7 +62,7 @@ SimpleStringCalculator.API
 [
 A simple .NET project that implements a string calculator with a method Add to sum numbers provided in a string. 
 This project is designed to be added to an existing solution for easy code review and testing.
-
+---
 Handles empty strings.
 
 Supports single and multiple numbers.
@@ -72,7 +72,7 @@ Allows custom delimiters.
 Throws exceptions for invalid inputs and negative numbers.
 
 Ignores numbers greater than 1000.
-
+---
 Features
 
 Empty String: Returns 0 for an empty string.
