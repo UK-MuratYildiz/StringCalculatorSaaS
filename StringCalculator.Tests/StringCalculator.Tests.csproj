@@ -22,6 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\SimpleStringCalculator\SimpleStringCalculator.API.csproj" />
     <ProjectReference Include="..\StringCalculator.Application\StringCalculator.Application.csproj" />
     <ProjectReference Include="..\StringCalculator.Domain\StringCalculator.Domain.csproj" />
     <ProjectReference Include="..\StringCalculator.Infrastructure\StringCalculator.Infrastructure.csproj" />
