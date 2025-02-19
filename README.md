@@ -72,9 +72,9 @@ Allows custom delimiters.
 Throws exceptions for invalid inputs and negative numbers.
 
 Ignores numbers greater than 1000.
----
-Features
 
+Features
+---
 Empty String: Returns 0 for an empty string.
 
 Single Number: Returns the number itself.
